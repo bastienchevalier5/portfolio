@@ -1,14 +1,16 @@
-
 header{background-color: rgb(75, 197, 233);overflow: hidden;text-align: center;margin: 0 auto;}
 header p{margin: 0;}
 header img{width: 100px;float: left;margin-left: 25%;}
 #presentation{width: 50%;margin-right: 100px;float: right;}
-#competence{background-color: wheat;float: left;height: 500px;width: 33%;margin: 50px;
+#competence{background-color: lightblue;float: left;height: 500px;width: 25%;margin-top: 50px;
             border-radius: 50px;}
 #competence h2{text-align: center;}
-#experience{background-color: aquamarine;float: right;height: 500px;width: 33%;margin: 50px;
+#experience{background-color: aquamarine;float: right;height: 500px;width: 25%;margin-top: 50px;
             border-radius: 50px;}
 #experience h2{text-align: center;}
-#diplome{background-color: darkgoldenrod;float: right;height: 500px;width: 33%;margin: 50px;
+#diplome{background-color: rgb(26, 190, 236);float: right;height: 500px;width: 25%;margin-top: 50px;margin-right: 200px;
                 border-radius: 50px;}
 #diplome h2{text-align: center;}
+#contact{background-color: rgb(155, 247, 230);float: left;width: 100%;margin-top: 50px;
+    border-radius: 50px;}
+#contact h2{text-align: center;}
