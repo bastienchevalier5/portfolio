@@ -1,16 +1,17 @@
-header{background-color: rgb(75, 197, 233);overflow: hidden;text-align: center;margin: 0 auto;}
+header{background-color: rgb(117, 111, 111), 0;overflow: hidden;text-align: center;margin: 0 auto;}
 header p{margin: 0;}
 header img{width: 100px;float: left;margin-left: 25%;}
 #presentation{width: 50%;margin-right: 100px;float: right;}
-#competence{background-color: lightblue;float: left;height: 500px;width: 25%;margin-top: 50px;
+#competence{background-color: rgb(145, 156, 159);float: left;height: 500px;width: 25%;margin-top: 50px;
             border-radius: 50px;}
 #competence h2{text-align: center;}
-#experience{background-color: aquamarine;float: right;height: 500px;width: 25%;margin-top: 50px;
+#experience{background-color: rgb(103, 113, 110);float: right;height: 500px;width: 25%;margin-top: 50px;
             border-radius: 50px;}
 #experience h2{text-align: center;}
-#diplome{background-color: rgb(26, 190, 236);float: right;height: 500px;width: 25%;margin-top: 50px;margin-right: 200px;
+#diplome{background-color: rgb(107, 114, 116);float: right;height: 500px;width: 25%;margin-top: 50px;margin-right: 200px;
                 border-radius: 50px;}
 #diplome h2{text-align: center;}
-#contact{background-color: rgb(155, 247, 230);float: left;width: 100%;margin-top: 50px;
+#contact{background-color: rgb(99, 112, 110);float: left;width: 100%;margin-top: 50px;
     border-radius: 50px;}
 #contact h2{text-align: center;}
+@media screen and (max-width: 700px){div{width: 100%;}}
